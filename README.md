@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Siva Arumuga Perumal<br>💻 Aspiring Full Stack Developer | MERN Stack Enthusiast  <br>🎓 3rd Year CSE Student  <br><br>🌱 Currently learning: Advanced React, Node.js, and modern backend practices  <br>🔭 Working on: Personal projects & open-source contributions  <br>🤝 Looking to collaborate on: Web apps, hackathons, and innovative projects  <br>⚡ Interests: Web Development, Problem Solving, Open Source
-
+👋 Hi, I’m Siva Arumuga Perumal<br>🤖 Aspiring AI Engineer | AI/ML & Data Science | Full Stack Developer  <br>🎓 Final Year Computer Science & Engineering Student  <br><br>💡 Passionate about Artificial Intelligence, Machine Learning & Generative AI  <br>🔭 Working on: Personal projects & open-source contributions  <br>🤝 Looking to collaborate on: Web apps, hackathons, and innovative projects  <br>⚡ Interested in AI Agents, RAG, Computer Vision & Intelligent Automation
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siva-arumuga-perumal-s-6b1248382) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivaarumugaaperumal@gmail.com) 
