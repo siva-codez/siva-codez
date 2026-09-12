@@ -2,16 +2,6 @@
 
 <h3 align="center">🤖 Aspiring AI Engineer | AI/ML | Data Science | Generative AI | Full Stack Development</h3>
 
-<p align="center">
-🎓 Final Year Computer Science &amp; Engineering Student &nbsp;|&nbsp;
-💡 Passionate about AI, ML, Data Science &amp; Generative AI &nbsp;|&nbsp;
-🚀 Building Intelligent Applications
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siva-codez&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -32,26 +22,6 @@ My journey started with **Frontend and Full Stack Development**, and I'm current
 
 ---
 
-## 🚀 Featured Project
-
-### 🌱 OptiCrop — Smart Agricultural Production Optimization Engine
-
-An AI-powered agricultural decision-support platform designed to help farmers make better decisions using Machine Learning, Computer Vision, Weather Intelligence, and AI.
-
-**✨ Key Features**
-
-| Feature | Description |
-|---|---|
-| 🌾 Crop Recommendation | Suggests optimal crops based on soil &amp; climate data |
-| 🍃 Plant Disease Detection | Detects diseases from leaf images using CV |
-| 🤖 AI Agricultural Assistant | Conversational assistant for farmer queries |
-| 🌦️ Weather Intelligence | Real-time weather-based decision support |
-| 🧪 Fertilizer Recommendation | Data-driven fertilizer suggestions |
-
-**🛠️ Technologies:** `React` `Python` `Machine Learning` `TensorFlow` `Keras` `REST API` `AI`
-
----
-
 ## 🛠️ Tech Stack
 
 **Programming Languages**
@@ -65,10 +35,7 @@ An AI-powered agricultural decision-support platform designed to help farmers ma
 **Frontend Development**
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
@@ -87,64 +54,21 @@ An AI-powered agricultural decision-support platform designed to help farmers ma
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 **Tools &amp; Platforms**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
 ---
-
-## 📚 Currently Learning
-
-- 🤖 Artificial Intelligence &amp; Machine Learning
-- 📊 Data Science &amp; Data Analytics
-- ✨ Generative AI
-- 🧠 Large Language Models
-- 🔗 RAG &amp; AI Agents
-- 👁️ Computer Vision
-- 💬 NLP &amp; AI Chatbots
-- ⚙️ Intelligent Automation
-- 📈 Power BI &amp; Data Visualization
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Prize — Web Design Competition
-- 🥈 1st Runner-Up — AICCI National Startup Hackathon 2026
-- 🤖 AI/ML Internship Experience
-- 💻 Full Stack Development Internship Experience
-- 🏅 TN Skill Competition — District Level Qualified
-- ⚙️ n8n No-Code &amp; Low-Code Automation Program
-- 📊 IBM Cognos Analytics Career Education Program
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siva-codez&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siva-codez&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siva-codez&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siva-codez&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=siva-codez&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-</p>
 
 ### 💬 Developer Quote
 
@@ -163,15 +87,11 @@ An AI-powered agricultural decision-support platform designed to help farmers ma
 <a href="https://siva-portfolio-chi.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<!-- Replace YOUR_INSTAGRAM_USERNAME with your actual Instagram username -->
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/itz_sixface?stkn=bTNyeGZ3bnluYmNj" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:sivaarumugaaperumal@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/siva-codez" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
